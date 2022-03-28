@@ -1,0 +1,55 @@
+$coloryellow: yellow;
+$colorred:red;
+$colorviolet:violet;
+$colorblue: blue;
+$colorblack:black;
+$colorbrown:brown;
+.btn {
+    border-radius: 5px;
+}
+
+.btn:active {
+    border-radius: 15px;
+    background-color: $colorblack;
+}
+
+.btn[disabled] {
+    border-radius: 50%;
+    background-color: gray;
+}
+
+.btn-red {
+    background-color: $colorred;
+}
+
+.btn-yellow {
+    background-color: $coloryellow;
+}
+
+.btn-violet {
+    background-color: $colorviolet;
+}
+
+@for $i from 1 through 100 {
+    .btn-red-#{$i} {
+        border: 4px solid $colorred;
+        width: $i + 50px;
+        height: $i+ 20px;
+    }
+}
+
+@for $i from 1 through 100 {
+    .btn-yellow-#{$i} {
+        border: 4px solid $coloryellow;
+        width: $i + 50px;
+        height: $i+ 20px;
+    }
+}
+
+@for $i from 50 through 100 {
+    .btn-violet-#{$i} {
+        border: 4px solid $colorviolet;
+        width: $i + 50px;
+        height: $i+ 20px;
+    }
+}

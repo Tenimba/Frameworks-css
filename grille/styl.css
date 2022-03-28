@@ -1,0 +1,180 @@
+* {
+  padding: 0;
+  margin: 0;
+}
+
+/* telephone */
+.row {
+  display: -ms-grid;
+  display: grid;
+  -ms-grid-columns: (1fr)[12];
+      grid-template-columns: repeat(12, 1fr);
+  grid-gap: 10px;
+}
+
+.col-1-smart {
+  grid-column: span 1;
+  background-color: red;
+}
+
+.col-2-smart {
+  grid-column: span 2;
+  background-color: rosybrown;
+}
+
+.col-3-smart {
+  grid-column: span 3;
+  background-color: royalblue;
+}
+
+.col-4-smart {
+  grid-column: span 4;
+  background-color: sandybrown;
+}
+
+.col-5-smart {
+  grid-column: span 5;
+  background-color: sienna;
+}
+
+.col-6-smart {
+  grid-column: span 6;
+  background-color: springgreen;
+}
+
+.col-7-smart {
+  grid-column: span 7;
+  background-color: tomato;
+}
+
+.col-8-smart {
+  grid-column: span 8;
+  background-color: violet;
+}
+
+.col-9-smart {
+  grid-column: span 9;
+  background-color: yellowgreen;
+}
+
+.col-10-smart {
+  grid-column: span 10;
+  background-color: black;
+}
+
+.col-11-smart {
+  grid-column: span 11;
+  background-color: brown;
+}
+
+.col-12-smart {
+  grid-column: span 12;
+  background-color: deeppink;
+}
+
+/* tablette */
+@media screen and (min-width: 768px) {
+  .cole-1-tablet {
+    grid-column: span 1;
+    background-color: red;
+  }
+  .col-2-tablet {
+    grid-column: span 2;
+    background-color: rosybrown;
+  }
+  .col-3-tablet {
+    grid-column: span 3;
+    background-color: royalblue;
+  }
+  .col-4-tablet {
+    grid-column: span 4;
+    background-color: sandybrown;
+  }
+  .col-5-tablet {
+    grid-column: span 5;
+    background-color: sienna;
+  }
+  .col-6-tablet {
+    grid-column: span 6;
+    background-color: springgreen;
+  }
+  .col-7-tablet {
+    grid-column: span 7;
+    background-color: tomato;
+  }
+  .col-8-tablet {
+    grid-column: span 8;
+    background-color: violet;
+  }
+  .col-9-tablet {
+    grid-column: span 9;
+    background-color: yellowgreen;
+  }
+  .col-10-tablet {
+    grid-column: span 10;
+    background-color: black;
+  }
+  .col-11-tablet {
+    grid-column: span 11;
+    background-color: brown;
+  }
+  .col-12-tablet {
+    grid-column: span 12;
+    background-color: deeppink;
+  }
+}
+
+/* ordinateur  */
+@media screen and (min-width: 1280px) {
+  .col-1-ordi {
+    grid-column: span 1;
+    background-color: red;
+  }
+  .col-2-ordi {
+    grid-column: span 2;
+    background-color: rosybrown;
+  }
+  .col-3-ordi {
+    grid-column: span 3;
+    background-color: royalblue;
+  }
+  .col-4-ordi {
+    grid-column: span 4;
+    background-color: sandybrown;
+  }
+  .col-5-ordi {
+    grid-column: span 5;
+    background-color: sienna;
+  }
+  .col-6-ordi {
+    grid-column: span 6;
+    background-color: springgreen;
+  }
+  .col-7-ordi {
+    grid-column: span 7;
+    background-color: tomato;
+  }
+  .col-8-ordi {
+    grid-column: span 8;
+    background-color: violet;
+  }
+  .col-9-ordi {
+    grid-column: span 9;
+    background-color: yellowgreen;
+  }
+  .col-10-ordi {
+    grid-column: span 10;
+    background-color: black;
+  }
+  .col-11-ordi {
+    grid-column: span 11;
+    background-color: brown;
+  }
+  .col-12-ordi {
+    -ms-grid-column: 1;
+    -ms-grid-column-span: 11;
+    grid-column: 1/12;
+    background-color: deeppink;
+  }
+}
+/*# sourceMappingURL=styl.css.map */

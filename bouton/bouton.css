@@ -1,0 +1,1532 @@
+.btn {
+  border-radius: 5px;
+}
+
+.btn:active {
+  border-radius: 15px;
+  background-color: black;
+}
+
+.btn[disabled] {
+  border-radius: 50%;
+  background-color: gray;
+}
+
+.btn-red {
+  background-color: red;
+}
+
+.btn-yellow {
+  background-color: yellow;
+}
+
+.btn-violet {
+  background-color: violet;
+}
+
+.btn-red-1 {
+  border: 4px solid red;
+  width: 51px;
+  height: 21px;
+}
+
+.btn-red-2 {
+  border: 4px solid red;
+  width: 52px;
+  height: 22px;
+}
+
+.btn-red-3 {
+  border: 4px solid red;
+  width: 53px;
+  height: 23px;
+}
+
+.btn-red-4 {
+  border: 4px solid red;
+  width: 54px;
+  height: 24px;
+}
+
+.btn-red-5 {
+  border: 4px solid red;
+  width: 55px;
+  height: 25px;
+}
+
+.btn-red-6 {
+  border: 4px solid red;
+  width: 56px;
+  height: 26px;
+}
+
+.btn-red-7 {
+  border: 4px solid red;
+  width: 57px;
+  height: 27px;
+}
+
+.btn-red-8 {
+  border: 4px solid red;
+  width: 58px;
+  height: 28px;
+}
+
+.btn-red-9 {
+  border: 4px solid red;
+  width: 59px;
+  height: 29px;
+}
+
+.btn-red-10 {
+  border: 4px solid red;
+  width: 60px;
+  height: 30px;
+}
+
+.btn-red-11 {
+  border: 4px solid red;
+  width: 61px;
+  height: 31px;
+}
+
+.btn-red-12 {
+  border: 4px solid red;
+  width: 62px;
+  height: 32px;
+}
+
+.btn-red-13 {
+  border: 4px solid red;
+  width: 63px;
+  height: 33px;
+}
+
+.btn-red-14 {
+  border: 4px solid red;
+  width: 64px;
+  height: 34px;
+}
+
+.btn-red-15 {
+  border: 4px solid red;
+  width: 65px;
+  height: 35px;
+}
+
+.btn-red-16 {
+  border: 4px solid red;
+  width: 66px;
+  height: 36px;
+}
+
+.btn-red-17 {
+  border: 4px solid red;
+  width: 67px;
+  height: 37px;
+}
+
+.btn-red-18 {
+  border: 4px solid red;
+  width: 68px;
+  height: 38px;
+}
+
+.btn-red-19 {
+  border: 4px solid red;
+  width: 69px;
+  height: 39px;
+}
+
+.btn-red-20 {
+  border: 4px solid red;
+  width: 70px;
+  height: 40px;
+}
+
+.btn-red-21 {
+  border: 4px solid red;
+  width: 71px;
+  height: 41px;
+}
+
+.btn-red-22 {
+  border: 4px solid red;
+  width: 72px;
+  height: 42px;
+}
+
+.btn-red-23 {
+  border: 4px solid red;
+  width: 73px;
+  height: 43px;
+}
+
+.btn-red-24 {
+  border: 4px solid red;
+  width: 74px;
+  height: 44px;
+}
+
+.btn-red-25 {
+  border: 4px solid red;
+  width: 75px;
+  height: 45px;
+}
+
+.btn-red-26 {
+  border: 4px solid red;
+  width: 76px;
+  height: 46px;
+}
+
+.btn-red-27 {
+  border: 4px solid red;
+  width: 77px;
+  height: 47px;
+}
+
+.btn-red-28 {
+  border: 4px solid red;
+  width: 78px;
+  height: 48px;
+}
+
+.btn-red-29 {
+  border: 4px solid red;
+  width: 79px;
+  height: 49px;
+}
+
+.btn-red-30 {
+  border: 4px solid red;
+  width: 80px;
+  height: 50px;
+}
+
+.btn-red-31 {
+  border: 4px solid red;
+  width: 81px;
+  height: 51px;
+}
+
+.btn-red-32 {
+  border: 4px solid red;
+  width: 82px;
+  height: 52px;
+}
+
+.btn-red-33 {
+  border: 4px solid red;
+  width: 83px;
+  height: 53px;
+}
+
+.btn-red-34 {
+  border: 4px solid red;
+  width: 84px;
+  height: 54px;
+}
+
+.btn-red-35 {
+  border: 4px solid red;
+  width: 85px;
+  height: 55px;
+}
+
+.btn-red-36 {
+  border: 4px solid red;
+  width: 86px;
+  height: 56px;
+}
+
+.btn-red-37 {
+  border: 4px solid red;
+  width: 87px;
+  height: 57px;
+}
+
+.btn-red-38 {
+  border: 4px solid red;
+  width: 88px;
+  height: 58px;
+}
+
+.btn-red-39 {
+  border: 4px solid red;
+  width: 89px;
+  height: 59px;
+}
+
+.btn-red-40 {
+  border: 4px solid red;
+  width: 90px;
+  height: 60px;
+}
+
+.btn-red-41 {
+  border: 4px solid red;
+  width: 91px;
+  height: 61px;
+}
+
+.btn-red-42 {
+  border: 4px solid red;
+  width: 92px;
+  height: 62px;
+}
+
+.btn-red-43 {
+  border: 4px solid red;
+  width: 93px;
+  height: 63px;
+}
+
+.btn-red-44 {
+  border: 4px solid red;
+  width: 94px;
+  height: 64px;
+}
+
+.btn-red-45 {
+  border: 4px solid red;
+  width: 95px;
+  height: 65px;
+}
+
+.btn-red-46 {
+  border: 4px solid red;
+  width: 96px;
+  height: 66px;
+}
+
+.btn-red-47 {
+  border: 4px solid red;
+  width: 97px;
+  height: 67px;
+}
+
+.btn-red-48 {
+  border: 4px solid red;
+  width: 98px;
+  height: 68px;
+}
+
+.btn-red-49 {
+  border: 4px solid red;
+  width: 99px;
+  height: 69px;
+}
+
+.btn-red-50 {
+  border: 4px solid red;
+  width: 100px;
+  height: 70px;
+}
+
+.btn-red-51 {
+  border: 4px solid red;
+  width: 101px;
+  height: 71px;
+}
+
+.btn-red-52 {
+  border: 4px solid red;
+  width: 102px;
+  height: 72px;
+}
+
+.btn-red-53 {
+  border: 4px solid red;
+  width: 103px;
+  height: 73px;
+}
+
+.btn-red-54 {
+  border: 4px solid red;
+  width: 104px;
+  height: 74px;
+}
+
+.btn-red-55 {
+  border: 4px solid red;
+  width: 105px;
+  height: 75px;
+}
+
+.btn-red-56 {
+  border: 4px solid red;
+  width: 106px;
+  height: 76px;
+}
+
+.btn-red-57 {
+  border: 4px solid red;
+  width: 107px;
+  height: 77px;
+}
+
+.btn-red-58 {
+  border: 4px solid red;
+  width: 108px;
+  height: 78px;
+}
+
+.btn-red-59 {
+  border: 4px solid red;
+  width: 109px;
+  height: 79px;
+}
+
+.btn-red-60 {
+  border: 4px solid red;
+  width: 110px;
+  height: 80px;
+}
+
+.btn-red-61 {
+  border: 4px solid red;
+  width: 111px;
+  height: 81px;
+}
+
+.btn-red-62 {
+  border: 4px solid red;
+  width: 112px;
+  height: 82px;
+}
+
+.btn-red-63 {
+  border: 4px solid red;
+  width: 113px;
+  height: 83px;
+}
+
+.btn-red-64 {
+  border: 4px solid red;
+  width: 114px;
+  height: 84px;
+}
+
+.btn-red-65 {
+  border: 4px solid red;
+  width: 115px;
+  height: 85px;
+}
+
+.btn-red-66 {
+  border: 4px solid red;
+  width: 116px;
+  height: 86px;
+}
+
+.btn-red-67 {
+  border: 4px solid red;
+  width: 117px;
+  height: 87px;
+}
+
+.btn-red-68 {
+  border: 4px solid red;
+  width: 118px;
+  height: 88px;
+}
+
+.btn-red-69 {
+  border: 4px solid red;
+  width: 119px;
+  height: 89px;
+}
+
+.btn-red-70 {
+  border: 4px solid red;
+  width: 120px;
+  height: 90px;
+}
+
+.btn-red-71 {
+  border: 4px solid red;
+  width: 121px;
+  height: 91px;
+}
+
+.btn-red-72 {
+  border: 4px solid red;
+  width: 122px;
+  height: 92px;
+}
+
+.btn-red-73 {
+  border: 4px solid red;
+  width: 123px;
+  height: 93px;
+}
+
+.btn-red-74 {
+  border: 4px solid red;
+  width: 124px;
+  height: 94px;
+}
+
+.btn-red-75 {
+  border: 4px solid red;
+  width: 125px;
+  height: 95px;
+}
+
+.btn-red-76 {
+  border: 4px solid red;
+  width: 126px;
+  height: 96px;
+}
+
+.btn-red-77 {
+  border: 4px solid red;
+  width: 127px;
+  height: 97px;
+}
+
+.btn-red-78 {
+  border: 4px solid red;
+  width: 128px;
+  height: 98px;
+}
+
+.btn-red-79 {
+  border: 4px solid red;
+  width: 129px;
+  height: 99px;
+}
+
+.btn-red-80 {
+  border: 4px solid red;
+  width: 130px;
+  height: 100px;
+}
+
+.btn-red-81 {
+  border: 4px solid red;
+  width: 131px;
+  height: 101px;
+}
+
+.btn-red-82 {
+  border: 4px solid red;
+  width: 132px;
+  height: 102px;
+}
+
+.btn-red-83 {
+  border: 4px solid red;
+  width: 133px;
+  height: 103px;
+}
+
+.btn-red-84 {
+  border: 4px solid red;
+  width: 134px;
+  height: 104px;
+}
+
+.btn-red-85 {
+  border: 4px solid red;
+  width: 135px;
+  height: 105px;
+}
+
+.btn-red-86 {
+  border: 4px solid red;
+  width: 136px;
+  height: 106px;
+}
+
+.btn-red-87 {
+  border: 4px solid red;
+  width: 137px;
+  height: 107px;
+}
+
+.btn-red-88 {
+  border: 4px solid red;
+  width: 138px;
+  height: 108px;
+}
+
+.btn-red-89 {
+  border: 4px solid red;
+  width: 139px;
+  height: 109px;
+}
+
+.btn-red-90 {
+  border: 4px solid red;
+  width: 140px;
+  height: 110px;
+}
+
+.btn-red-91 {
+  border: 4px solid red;
+  width: 141px;
+  height: 111px;
+}
+
+.btn-red-92 {
+  border: 4px solid red;
+  width: 142px;
+  height: 112px;
+}
+
+.btn-red-93 {
+  border: 4px solid red;
+  width: 143px;
+  height: 113px;
+}
+
+.btn-red-94 {
+  border: 4px solid red;
+  width: 144px;
+  height: 114px;
+}
+
+.btn-red-95 {
+  border: 4px solid red;
+  width: 145px;
+  height: 115px;
+}
+
+.btn-red-96 {
+  border: 4px solid red;
+  width: 146px;
+  height: 116px;
+}
+
+.btn-red-97 {
+  border: 4px solid red;
+  width: 147px;
+  height: 117px;
+}
+
+.btn-red-98 {
+  border: 4px solid red;
+  width: 148px;
+  height: 118px;
+}
+
+.btn-red-99 {
+  border: 4px solid red;
+  width: 149px;
+  height: 119px;
+}
+
+.btn-red-100 {
+  border: 4px solid red;
+  width: 150px;
+  height: 120px;
+}
+
+.btn-yellow-1 {
+  border: 4px solid yellow;
+  width: 51px;
+  height: 21px;
+}
+
+.btn-yellow-2 {
+  border: 4px solid yellow;
+  width: 52px;
+  height: 22px;
+}
+
+.btn-yellow-3 {
+  border: 4px solid yellow;
+  width: 53px;
+  height: 23px;
+}
+
+.btn-yellow-4 {
+  border: 4px solid yellow;
+  width: 54px;
+  height: 24px;
+}
+
+.btn-yellow-5 {
+  border: 4px solid yellow;
+  width: 55px;
+  height: 25px;
+}
+
+.btn-yellow-6 {
+  border: 4px solid yellow;
+  width: 56px;
+  height: 26px;
+}
+
+.btn-yellow-7 {
+  border: 4px solid yellow;
+  width: 57px;
+  height: 27px;
+}
+
+.btn-yellow-8 {
+  border: 4px solid yellow;
+  width: 58px;
+  height: 28px;
+}
+
+.btn-yellow-9 {
+  border: 4px solid yellow;
+  width: 59px;
+  height: 29px;
+}
+
+.btn-yellow-10 {
+  border: 4px solid yellow;
+  width: 60px;
+  height: 30px;
+}
+
+.btn-yellow-11 {
+  border: 4px solid yellow;
+  width: 61px;
+  height: 31px;
+}
+
+.btn-yellow-12 {
+  border: 4px solid yellow;
+  width: 62px;
+  height: 32px;
+}
+
+.btn-yellow-13 {
+  border: 4px solid yellow;
+  width: 63px;
+  height: 33px;
+}
+
+.btn-yellow-14 {
+  border: 4px solid yellow;
+  width: 64px;
+  height: 34px;
+}
+
+.btn-yellow-15 {
+  border: 4px solid yellow;
+  width: 65px;
+  height: 35px;
+}
+
+.btn-yellow-16 {
+  border: 4px solid yellow;
+  width: 66px;
+  height: 36px;
+}
+
+.btn-yellow-17 {
+  border: 4px solid yellow;
+  width: 67px;
+  height: 37px;
+}
+
+.btn-yellow-18 {
+  border: 4px solid yellow;
+  width: 68px;
+  height: 38px;
+}
+
+.btn-yellow-19 {
+  border: 4px solid yellow;
+  width: 69px;
+  height: 39px;
+}
+
+.btn-yellow-20 {
+  border: 4px solid yellow;
+  width: 70px;
+  height: 40px;
+}
+
+.btn-yellow-21 {
+  border: 4px solid yellow;
+  width: 71px;
+  height: 41px;
+}
+
+.btn-yellow-22 {
+  border: 4px solid yellow;
+  width: 72px;
+  height: 42px;
+}
+
+.btn-yellow-23 {
+  border: 4px solid yellow;
+  width: 73px;
+  height: 43px;
+}
+
+.btn-yellow-24 {
+  border: 4px solid yellow;
+  width: 74px;
+  height: 44px;
+}
+
+.btn-yellow-25 {
+  border: 4px solid yellow;
+  width: 75px;
+  height: 45px;
+}
+
+.btn-yellow-26 {
+  border: 4px solid yellow;
+  width: 76px;
+  height: 46px;
+}
+
+.btn-yellow-27 {
+  border: 4px solid yellow;
+  width: 77px;
+  height: 47px;
+}
+
+.btn-yellow-28 {
+  border: 4px solid yellow;
+  width: 78px;
+  height: 48px;
+}
+
+.btn-yellow-29 {
+  border: 4px solid yellow;
+  width: 79px;
+  height: 49px;
+}
+
+.btn-yellow-30 {
+  border: 4px solid yellow;
+  width: 80px;
+  height: 50px;
+}
+
+.btn-yellow-31 {
+  border: 4px solid yellow;
+  width: 81px;
+  height: 51px;
+}
+
+.btn-yellow-32 {
+  border: 4px solid yellow;
+  width: 82px;
+  height: 52px;
+}
+
+.btn-yellow-33 {
+  border: 4px solid yellow;
+  width: 83px;
+  height: 53px;
+}
+
+.btn-yellow-34 {
+  border: 4px solid yellow;
+  width: 84px;
+  height: 54px;
+}
+
+.btn-yellow-35 {
+  border: 4px solid yellow;
+  width: 85px;
+  height: 55px;
+}
+
+.btn-yellow-36 {
+  border: 4px solid yellow;
+  width: 86px;
+  height: 56px;
+}
+
+.btn-yellow-37 {
+  border: 4px solid yellow;
+  width: 87px;
+  height: 57px;
+}
+
+.btn-yellow-38 {
+  border: 4px solid yellow;
+  width: 88px;
+  height: 58px;
+}
+
+.btn-yellow-39 {
+  border: 4px solid yellow;
+  width: 89px;
+  height: 59px;
+}
+
+.btn-yellow-40 {
+  border: 4px solid yellow;
+  width: 90px;
+  height: 60px;
+}
+
+.btn-yellow-41 {
+  border: 4px solid yellow;
+  width: 91px;
+  height: 61px;
+}
+
+.btn-yellow-42 {
+  border: 4px solid yellow;
+  width: 92px;
+  height: 62px;
+}
+
+.btn-yellow-43 {
+  border: 4px solid yellow;
+  width: 93px;
+  height: 63px;
+}
+
+.btn-yellow-44 {
+  border: 4px solid yellow;
+  width: 94px;
+  height: 64px;
+}
+
+.btn-yellow-45 {
+  border: 4px solid yellow;
+  width: 95px;
+  height: 65px;
+}
+
+.btn-yellow-46 {
+  border: 4px solid yellow;
+  width: 96px;
+  height: 66px;
+}
+
+.btn-yellow-47 {
+  border: 4px solid yellow;
+  width: 97px;
+  height: 67px;
+}
+
+.btn-yellow-48 {
+  border: 4px solid yellow;
+  width: 98px;
+  height: 68px;
+}
+
+.btn-yellow-49 {
+  border: 4px solid yellow;
+  width: 99px;
+  height: 69px;
+}
+
+.btn-yellow-50 {
+  border: 4px solid yellow;
+  width: 100px;
+  height: 70px;
+}
+
+.btn-yellow-51 {
+  border: 4px solid yellow;
+  width: 101px;
+  height: 71px;
+}
+
+.btn-yellow-52 {
+  border: 4px solid yellow;
+  width: 102px;
+  height: 72px;
+}
+
+.btn-yellow-53 {
+  border: 4px solid yellow;
+  width: 103px;
+  height: 73px;
+}
+
+.btn-yellow-54 {
+  border: 4px solid yellow;
+  width: 104px;
+  height: 74px;
+}
+
+.btn-yellow-55 {
+  border: 4px solid yellow;
+  width: 105px;
+  height: 75px;
+}
+
+.btn-yellow-56 {
+  border: 4px solid yellow;
+  width: 106px;
+  height: 76px;
+}
+
+.btn-yellow-57 {
+  border: 4px solid yellow;
+  width: 107px;
+  height: 77px;
+}
+
+.btn-yellow-58 {
+  border: 4px solid yellow;
+  width: 108px;
+  height: 78px;
+}
+
+.btn-yellow-59 {
+  border: 4px solid yellow;
+  width: 109px;
+  height: 79px;
+}
+
+.btn-yellow-60 {
+  border: 4px solid yellow;
+  width: 110px;
+  height: 80px;
+}
+
+.btn-yellow-61 {
+  border: 4px solid yellow;
+  width: 111px;
+  height: 81px;
+}
+
+.btn-yellow-62 {
+  border: 4px solid yellow;
+  width: 112px;
+  height: 82px;
+}
+
+.btn-yellow-63 {
+  border: 4px solid yellow;
+  width: 113px;
+  height: 83px;
+}
+
+.btn-yellow-64 {
+  border: 4px solid yellow;
+  width: 114px;
+  height: 84px;
+}
+
+.btn-yellow-65 {
+  border: 4px solid yellow;
+  width: 115px;
+  height: 85px;
+}
+
+.btn-yellow-66 {
+  border: 4px solid yellow;
+  width: 116px;
+  height: 86px;
+}
+
+.btn-yellow-67 {
+  border: 4px solid yellow;
+  width: 117px;
+  height: 87px;
+}
+
+.btn-yellow-68 {
+  border: 4px solid yellow;
+  width: 118px;
+  height: 88px;
+}
+
+.btn-yellow-69 {
+  border: 4px solid yellow;
+  width: 119px;
+  height: 89px;
+}
+
+.btn-yellow-70 {
+  border: 4px solid yellow;
+  width: 120px;
+  height: 90px;
+}
+
+.btn-yellow-71 {
+  border: 4px solid yellow;
+  width: 121px;
+  height: 91px;
+}
+
+.btn-yellow-72 {
+  border: 4px solid yellow;
+  width: 122px;
+  height: 92px;
+}
+
+.btn-yellow-73 {
+  border: 4px solid yellow;
+  width: 123px;
+  height: 93px;
+}
+
+.btn-yellow-74 {
+  border: 4px solid yellow;
+  width: 124px;
+  height: 94px;
+}
+
+.btn-yellow-75 {
+  border: 4px solid yellow;
+  width: 125px;
+  height: 95px;
+}
+
+.btn-yellow-76 {
+  border: 4px solid yellow;
+  width: 126px;
+  height: 96px;
+}
+
+.btn-yellow-77 {
+  border: 4px solid yellow;
+  width: 127px;
+  height: 97px;
+}
+
+.btn-yellow-78 {
+  border: 4px solid yellow;
+  width: 128px;
+  height: 98px;
+}
+
+.btn-yellow-79 {
+  border: 4px solid yellow;
+  width: 129px;
+  height: 99px;
+}
+
+.btn-yellow-80 {
+  border: 4px solid yellow;
+  width: 130px;
+  height: 100px;
+}
+
+.btn-yellow-81 {
+  border: 4px solid yellow;
+  width: 131px;
+  height: 101px;
+}
+
+.btn-yellow-82 {
+  border: 4px solid yellow;
+  width: 132px;
+  height: 102px;
+}
+
+.btn-yellow-83 {
+  border: 4px solid yellow;
+  width: 133px;
+  height: 103px;
+}
+
+.btn-yellow-84 {
+  border: 4px solid yellow;
+  width: 134px;
+  height: 104px;
+}
+
+.btn-yellow-85 {
+  border: 4px solid yellow;
+  width: 135px;
+  height: 105px;
+}
+
+.btn-yellow-86 {
+  border: 4px solid yellow;
+  width: 136px;
+  height: 106px;
+}
+
+.btn-yellow-87 {
+  border: 4px solid yellow;
+  width: 137px;
+  height: 107px;
+}
+
+.btn-yellow-88 {
+  border: 4px solid yellow;
+  width: 138px;
+  height: 108px;
+}
+
+.btn-yellow-89 {
+  border: 4px solid yellow;
+  width: 139px;
+  height: 109px;
+}
+
+.btn-yellow-90 {
+  border: 4px solid yellow;
+  width: 140px;
+  height: 110px;
+}
+
+.btn-yellow-91 {
+  border: 4px solid yellow;
+  width: 141px;
+  height: 111px;
+}
+
+.btn-yellow-92 {
+  border: 4px solid yellow;
+  width: 142px;
+  height: 112px;
+}
+
+.btn-yellow-93 {
+  border: 4px solid yellow;
+  width: 143px;
+  height: 113px;
+}
+
+.btn-yellow-94 {
+  border: 4px solid yellow;
+  width: 144px;
+  height: 114px;
+}
+
+.btn-yellow-95 {
+  border: 4px solid yellow;
+  width: 145px;
+  height: 115px;
+}
+
+.btn-yellow-96 {
+  border: 4px solid yellow;
+  width: 146px;
+  height: 116px;
+}
+
+.btn-yellow-97 {
+  border: 4px solid yellow;
+  width: 147px;
+  height: 117px;
+}
+
+.btn-yellow-98 {
+  border: 4px solid yellow;
+  width: 148px;
+  height: 118px;
+}
+
+.btn-yellow-99 {
+  border: 4px solid yellow;
+  width: 149px;
+  height: 119px;
+}
+
+.btn-yellow-100 {
+  border: 4px solid yellow;
+  width: 150px;
+  height: 120px;
+}
+
+.btn-violet-50 {
+  border: 4px solid violet;
+  width: 100px;
+  height: 70px;
+}
+
+.btn-violet-51 {
+  border: 4px solid violet;
+  width: 101px;
+  height: 71px;
+}
+
+.btn-violet-52 {
+  border: 4px solid violet;
+  width: 102px;
+  height: 72px;
+}
+
+.btn-violet-53 {
+  border: 4px solid violet;
+  width: 103px;
+  height: 73px;
+}
+
+.btn-violet-54 {
+  border: 4px solid violet;
+  width: 104px;
+  height: 74px;
+}
+
+.btn-violet-55 {
+  border: 4px solid violet;
+  width: 105px;
+  height: 75px;
+}
+
+.btn-violet-56 {
+  border: 4px solid violet;
+  width: 106px;
+  height: 76px;
+}
+
+.btn-violet-57 {
+  border: 4px solid violet;
+  width: 107px;
+  height: 77px;
+}
+
+.btn-violet-58 {
+  border: 4px solid violet;
+  width: 108px;
+  height: 78px;
+}
+
+.btn-violet-59 {
+  border: 4px solid violet;
+  width: 109px;
+  height: 79px;
+}
+
+.btn-violet-60 {
+  border: 4px solid violet;
+  width: 110px;
+  height: 80px;
+}
+
+.btn-violet-61 {
+  border: 4px solid violet;
+  width: 111px;
+  height: 81px;
+}
+
+.btn-violet-62 {
+  border: 4px solid violet;
+  width: 112px;
+  height: 82px;
+}
+
+.btn-violet-63 {
+  border: 4px solid violet;
+  width: 113px;
+  height: 83px;
+}
+
+.btn-violet-64 {
+  border: 4px solid violet;
+  width: 114px;
+  height: 84px;
+}
+
+.btn-violet-65 {
+  border: 4px solid violet;
+  width: 115px;
+  height: 85px;
+}
+
+.btn-violet-66 {
+  border: 4px solid violet;
+  width: 116px;
+  height: 86px;
+}
+
+.btn-violet-67 {
+  border: 4px solid violet;
+  width: 117px;
+  height: 87px;
+}
+
+.btn-violet-68 {
+  border: 4px solid violet;
+  width: 118px;
+  height: 88px;
+}
+
+.btn-violet-69 {
+  border: 4px solid violet;
+  width: 119px;
+  height: 89px;
+}
+
+.btn-violet-70 {
+  border: 4px solid violet;
+  width: 120px;
+  height: 90px;
+}
+
+.btn-violet-71 {
+  border: 4px solid violet;
+  width: 121px;
+  height: 91px;
+}
+
+.btn-violet-72 {
+  border: 4px solid violet;
+  width: 122px;
+  height: 92px;
+}
+
+.btn-violet-73 {
+  border: 4px solid violet;
+  width: 123px;
+  height: 93px;
+}
+
+.btn-violet-74 {
+  border: 4px solid violet;
+  width: 124px;
+  height: 94px;
+}
+
+.btn-violet-75 {
+  border: 4px solid violet;
+  width: 125px;
+  height: 95px;
+}
+
+.btn-violet-76 {
+  border: 4px solid violet;
+  width: 126px;
+  height: 96px;
+}
+
+.btn-violet-77 {
+  border: 4px solid violet;
+  width: 127px;
+  height: 97px;
+}
+
+.btn-violet-78 {
+  border: 4px solid violet;
+  width: 128px;
+  height: 98px;
+}
+
+.btn-violet-79 {
+  border: 4px solid violet;
+  width: 129px;
+  height: 99px;
+}
+
+.btn-violet-80 {
+  border: 4px solid violet;
+  width: 130px;
+  height: 100px;
+}
+
+.btn-violet-81 {
+  border: 4px solid violet;
+  width: 131px;
+  height: 101px;
+}
+
+.btn-violet-82 {
+  border: 4px solid violet;
+  width: 132px;
+  height: 102px;
+}
+
+.btn-violet-83 {
+  border: 4px solid violet;
+  width: 133px;
+  height: 103px;
+}
+
+.btn-violet-84 {
+  border: 4px solid violet;
+  width: 134px;
+  height: 104px;
+}
+
+.btn-violet-85 {
+  border: 4px solid violet;
+  width: 135px;
+  height: 105px;
+}
+
+.btn-violet-86 {
+  border: 4px solid violet;
+  width: 136px;
+  height: 106px;
+}
+
+.btn-violet-87 {
+  border: 4px solid violet;
+  width: 137px;
+  height: 107px;
+}
+
+.btn-violet-88 {
+  border: 4px solid violet;
+  width: 138px;
+  height: 108px;
+}
+
+.btn-violet-89 {
+  border: 4px solid violet;
+  width: 139px;
+  height: 109px;
+}
+
+.btn-violet-90 {
+  border: 4px solid violet;
+  width: 140px;
+  height: 110px;
+}
+
+.btn-violet-91 {
+  border: 4px solid violet;
+  width: 141px;
+  height: 111px;
+}
+
+.btn-violet-92 {
+  border: 4px solid violet;
+  width: 142px;
+  height: 112px;
+}
+
+.btn-violet-93 {
+  border: 4px solid violet;
+  width: 143px;
+  height: 113px;
+}
+
+.btn-violet-94 {
+  border: 4px solid violet;
+  width: 144px;
+  height: 114px;
+}
+
+.btn-violet-95 {
+  border: 4px solid violet;
+  width: 145px;
+  height: 115px;
+}
+
+.btn-violet-96 {
+  border: 4px solid violet;
+  width: 146px;
+  height: 116px;
+}
+
+.btn-violet-97 {
+  border: 4px solid violet;
+  width: 147px;
+  height: 117px;
+}
+
+.btn-violet-98 {
+  border: 4px solid violet;
+  width: 148px;
+  height: 118px;
+}
+
+.btn-violet-99 {
+  border: 4px solid violet;
+  width: 149px;
+  height: 119px;
+}
+
+.btn-violet-100 {
+  border: 4px solid violet;
+  width: 150px;
+  height: 120px;
+}
+/*# sourceMappingURL=bouton.css.map */

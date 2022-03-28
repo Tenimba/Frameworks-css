@@ -1,0 +1,33 @@
+.alert-success {
+    background-color: green;
+    border-radius: 5%;
+    border: 1px solid black;
+}
+
+.alert-danger {
+    background-color: red;
+    border-radius: 5%;
+    border: 1px solid black;
+}
+
+.alert-warning {
+    background-color: yellow;
+    border-radius: 5%;
+    border: 1px solid black;
+}
+
+.alert-info {
+    background-color: aqua;
+    border-radius: 5%;
+    border: 1px solid black;
+}
+
+.alert-error {
+    background-color: #6D071A;
+    border-radius: 5%;
+    border: 1px solid black;
+}
+
+.alert {
+    display: none;
+}
